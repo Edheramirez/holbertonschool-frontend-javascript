@@ -6,3 +6,8 @@ babel.config.js
 
 #json
 package.json
+node_modules
+package-lock.json
+
+#node
+nodesource_setup.sh
